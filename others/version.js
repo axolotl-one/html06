@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "N1.0 Página Principal"
+document.getElementById("version").innerHTML = "Prct 1.0 Viajes: Código Inicial"
