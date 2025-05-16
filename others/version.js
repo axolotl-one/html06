@@ -1,0 +1,1 @@
+document.getElementById("version").innerHTML = "N1.0 Página Principal"

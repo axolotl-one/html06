@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    color: #eee;
+    background-color: #222;
+}
+
+h1, h5, a{
+    font-family: "Goldman", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+a{
+    display: block;
+    padding: 8px 12px;
+    border: 3px ridge #eee;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #eee;
+    font-size: 24px;
+    transition: background-color 0.5s;
+}
+
+a:hover{
+    background-color: #303030;
+}
+
+main, header, footer{
+    padding: 5px 15px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
