@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 1.0 Viajes: Código Inicial"
+document.getElementById("version").innerHTML = "Prct 1.1 Viajes: Código Actualizado a ES6"
