@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 3.0 Admin Tienda Online: Operaciones con Respuesta en Consola"
+document.getElementById("version").innerHTML = "Prct 3.1 Admin Tienda Online: Tabla de Consulta"
