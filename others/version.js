@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 1.1 Viajes: Código Actualizado a ES6"
+document.getElementById("version").innerHTML = "Prct 2.0 Lista de Compras: Funciones Agregar, Mostrar y Eliminar"
