@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 2.0 Lista de Compras: Funciones Agregar, Mostrar y Eliminar"
+document.getElementById("version").innerHTML = "Prct 3.0 Admin Tienda Online: Operaciones con Respuesta en Consola"

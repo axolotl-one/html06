@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda Online</title>
+</head>
+<body>
+    <header>
+        <h1>Admin Tienda Online</h1>
+    </header>
+    <main>
+        <section id="seccFiltros">
+            <form action="" id="formPrecioMinimo">
+                <fieldset>
+                    <legend>Filtrar por Precio Minimo</legend>
+                    <input type="number" id="inputPrecioMin" placeholder="Ingresa el Precio Mínimo" min="0">
+                    <input type="submit" value="Buscar">
+                </fieldset>
+            </form>
+            <form action="" id="formOrdenarPor">
+                <fieldset>
+                    <legend>Ordenar por Campo</legend>
+                    <select id="selectCampoOrdenar">
+                        <option value="nombre">Nombre</option>
+                        <option value="precio">Precio</option>
+                        <option value="categoria">Categoría</option>
+                    </select>
+                    <input type="submit" value="Ordenar">
+                </fieldset>
+            </form>
+            <form action="" id="formListaDe">
+                <fieldset>
+                    <legend>Obtener Lista por Campo</legend>
+                    <select id="selectCampoMostrar">
+                        <option value="nombre">Nombre</option>
+                        <option value="precio">Precio</option>
+                        <option value="categoria">Categoría</option>
+                    </select>
+                    <input type="submit" value="Mostrar Lista">
+                </fieldset>
+            </form>
+        </section>
+        <section id="seccProductos">
+            <table id="tablaProductos">
+            </table>
+        </section>
+    </main>
+    <footer>
+        <h5 id="version"></h5>
+    </footer>
+    <script src="../others/version.js"></script>
+    <script src="./tiendaOnline.js"></script>
+</body>
+</html>
