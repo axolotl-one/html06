@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 3.1 Admin Tienda Online: Tabla de Consulta"
+document.getElementById("version").innerHTML = "Prct 4.0 Lista de Invitados: Algoritmo de los dos Punteros"
