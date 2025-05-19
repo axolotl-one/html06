@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 4.0 Lista de Invitados: Algoritmo de los dos Punteros"
+document.getElementById("version").innerHTML = "Prct 5.0 Buscador de Palabras Más Extensas"
