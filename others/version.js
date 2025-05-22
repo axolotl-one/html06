@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 5.0 Buscador de Palabras Más Extensas"
+document.getElementById("version").innerHTML = "Prct 6.0 Backtracking: Combinaciones de Letras";
