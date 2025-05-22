@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 6.1 Lista de Regalos: Recursión básica";
+document.getElementById("version").innerHTML = "Prct 6.2 Backtracking: Soluciones de las N-Reinas";
