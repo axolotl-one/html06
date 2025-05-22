@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 6.0 Backtracking: Combinaciones de Letras";
+document.getElementById("version").innerHTML = "Prct 6.1 Lista de Regalos: Recursión básica";
