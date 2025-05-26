@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 6.2 Backtracking: Soluciones de las N-Reinas";
+document.getElementById("version").innerHTML = "Prct 7.0 Divide&Conquer: Recursión de Búsqueda";

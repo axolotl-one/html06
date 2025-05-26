@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divide and Conquer</title>
+</head>
+<body>
+    <header>
+        <h1>Divide and Conquer: Número Máximo</h1>
+    </header>
+    <main>
+        <form action="" id="formMaximo">
+            <label for="rangeLongitud">Tamaño del Arreglo: <output id="outputLongitud">10</output></label>
+            <input type="range" id="rangeLongitud" min="1" max="100" value="10" oninput="outputLongitud.value = rangeLongitud.value">
+            <input type="submit" value="Generar Arreglo">
+        </form>
+        <section id="seccRespt">
+            <p id="pArreglo"></p>
+            <p id="pMaximo"></p>
+        </section>
+    </main>
+    <footer>
+        <h5 id="version"></h5>
+    </footer>
+    <script src="../others/version.js"></script>
+    <script src="./divide.js"></script>
+</body>
+</html>
