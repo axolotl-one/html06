@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "CLI 1.0 Código Inicial";
+document.getElementById("version").innerHTML = "Prct 10.0 Node: Módulos .cjs y .mjs";
