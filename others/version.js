@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 8.0 Node: Instrucciones CRUD";
+document.getElementById("version").innerHTML = "CLI 1.0 Código Inicial";
