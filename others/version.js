@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "N1.1 Anexo de Anclas y Secciones";
+document.getElementById("version").innerHTML = "Prct 8.0 Node: Instrucciones CRUD";

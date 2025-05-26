@@ -1,0 +1,11 @@
+{
+    "nombre": "Jerry",
+    "edad": 3,
+    "esterilizado": false,
+    "duenio": {
+        "nombre": "Hugo",
+        "edad": 22
+    },
+    "vacunas": ["Tenanos", "rabia", "tosferina"],
+    "hijos": null
+}

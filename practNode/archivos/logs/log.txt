@@ -1,0 +1,2 @@
+hoy | localhost ingreso al sistemamañana | localhostB ingreso al sistemahoy | localhost ingreso al sistema.
+mañana | localhostB ingreso al sistema.
