@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 7.0 Divide&Conquer: Recursión de Búsqueda";
+document.getElementById("version").innerHTML = "N1.1 Anexo de Anclas y Secciones";
