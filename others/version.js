@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "Prct 10.0 Node: Módulos .cjs y .mjs";
+document.getElementById("version").innerHTML = "CLI 1.1 Readline y Funciones Async";
