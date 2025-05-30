@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "CLI 1.2 Registro de actividades";
+document.getElementById("version").innerHTML = "N1.2 Merge Proyecto Final";
