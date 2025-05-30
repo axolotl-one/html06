@@ -1,1 +1,1 @@
-document.getElementById("version").innerHTML = "CLI 1.1 Readline y Funciones Async";
+document.getElementById("version").innerHTML = "CLI 1.2 Registro de actividades";
